@@ -2,7 +2,7 @@
 
 This repo has Server code and Frontend (Android app) code.
 
-The server is deplyoed at: http://3.7.69.225:9595/server/swagger-ui.html
+The server is deplyoed at: http://13.127.77.170:9595/server/swagger-ui.html
 Android app is configured to use this Backend.
 
 Video of Project run is available here: https://drive.google.com/drive/folders/1-3HeL7qPxi1QP0tqYnLn-cXMsEsh1TxR?usp=sharing
