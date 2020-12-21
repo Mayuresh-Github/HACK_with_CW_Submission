@@ -10,7 +10,7 @@ It was too big (around 3 GB) so I am uploading that to Google Drive
 
 <b>The Backend will be shutdown on 30 Dec 2020 as I already have a Backend running and I don't want to go out of FREE-TEIR of AWS</b>
 
-If you have any questions or stuck at anything contact me:
+If you have any questions or stuck at anything (like tokens / functioning problems) contact me:
 
 - Mayuresh Mitkari
 - mmayuresh12@gmail.com
